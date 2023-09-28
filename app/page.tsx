@@ -33,7 +33,7 @@ export default function Home() {
                 </div>
                 <button className="btn btn-primary">Get Started</button>
               </div>
-              <div className="mockup-window border bg-base-300 w-2/3 h-2/3 ">
+              {/* <div className="mockup-window border bg-base-300 w-2/3 h-2/3 ">
                 <div className="flex flex-col align-middle items-center justify-center px-4 py-16 bg-base-200 h-full ">
                   <div>
                     <div className=" text-primary">Begin</div>
@@ -47,7 +47,7 @@ export default function Home() {
 
                   
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
